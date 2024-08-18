@@ -57,7 +57,6 @@ As a recent graduate from Western Governors University with a major in Cybersecu
 </div>
 
 ## Projects
-- Elastic SIEM Implementation and Log Analysis
 - SOC Automation project
 - Network monitorying project
 - Active Directory project
