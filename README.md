@@ -1,5 +1,5 @@
-# Hello, I'm KT                               
-
+# Hello, I'm KT  |   <img width="100" alt="Active Directory project Diagram" src="https://github.com/user-attachments/assets/efb15969-0c38-4b3f-997e-8b5c74ad1a5f">
+                                
 
 <a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
