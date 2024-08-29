@@ -12,9 +12,10 @@ As a recent graduate from Western Governors University with a major in Cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation, Log Analysis, and Automation          | <a href="https://github.com/baechuu1/Wazuh-SOAR-project">SOC Automation Project </a>|
-| Intrusion Detection, Network analysis, IDS Rules configuration                      | <a href="https://github.com/baechuu1/Snort-Network-Monitoring-project">Network-Monitoring-project </a>|                     
-| Active Directory implementation, Splunk enterprise, threat  detection          | <a href="https://github.com/baechuu1/Active-Directory-project">Active-Directory-project </a>|
+| SIEM Implementation, Log Analysis, and Automation                          | <a href="https://github.com/baechuu1/Wazuh-SOAR-project">SOC Automation Project </a>|
+| Intrusion Detection, Network analysis, IDS Rules configuration             | <a href="https://github.com/baechuu1/Snort-Network-Monitoring-project">Network-Monitoring-project </a>|                     
+| Active Directory implementation, Splunk enterprise, Log Analysis           | <a href="https://github.com/baechuu1/Active-Directory-project">Active-Directory-project </a>|
+| EDR Implementation, threat detection, Real-Time Communication              | <a href="https://github.com/baechuu1/SOAR-EDR-Project">SOAR-EDR-project </a>  | 
 ## Tools
 
 
@@ -24,11 +25,29 @@ As a recent graduate from Western Governors University with a major in Cybersecu
     <img src="https://img.shields.io/badge/-Snort-FF6F00?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
+### EDR
+<div>
+<img src="https://img.shields.io/badge/-LimaCharlie-1D72AA?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+</div>
+
+### SOAR
+<div>
+<img src="https://img.shields.io/badge/-Shuffle-F7E04B?&style=for-the-badge&logo=Shuffle&logoColor=black" alt="Shuffle Badge" />
+<img src="https://img.shields.io/badge/-Tines-D8BFD8?&style=for-the-badge&logo=Tines&logoColor=000000" alt="Tines Badge" />
+</div>
+
 ### Threat emulation
 <div>
     <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-FF3B30?&style=for-the-badge&logo=Atomic%20Red%20Team&logoColor=white" />
 
 </div>
+
+### Management
+<div>
+    <img src="https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Slack-D53032?&style=for-the-badge&logo=Slack&logoColor=white" />
+</div>
+
 
 ### SIEM
 <div>
@@ -60,3 +79,4 @@ As a recent graduate from Western Governors University with a major in Cybersecu
 - SOC Automation project
 - Network monitorying project
 - Active Directory project
+- SOAR-EDR project
