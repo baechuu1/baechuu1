@@ -16,6 +16,7 @@ Getting back to work..
 | Intrusion Detection, Network analysis, IDS Rules configuration             | <a href="https://github.com/baechuu1/Snort-Network-Monitoring-project">Network-Monitoring-project </a>|                     
 | Active Directory implementation, Splunk enterprise, Log Analysis           | <a href="https://github.com/baechuu1/Active-Directory-project">Active-Directory-project </a>|
 | EDR Implementation, threat detection, Real-Time Communication              | <a href="https://github.com/baechuu1/SOAR-EDR-Project">SOAR-EDR-project </a>  | 
+| nessus-juice-shop                                                          | <a href="https://github.com/baechuu1/nessus-juice-shop-lab">nessus-juice-shop </a>|
 ## Tools
 
 
