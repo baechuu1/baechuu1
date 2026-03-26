@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As a recent graduate from Western Governors University with a major in Cybersecurity and Information Assurance, I am enthusiastic about applying my skills to new challenges in the field. I am eager to expand my knowledge and continually improve my skills to advance my career and tackle new opportunities.
+Getting back to work..
  
 
 ## Skills
