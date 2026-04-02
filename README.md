@@ -17,7 +17,7 @@ Getting back to work..
 | Active Directory implementation, Splunk enterprise, Log Analysis           | <a href="https://github.com/baechuu1/Active-Directory-project">Active-Directory-project </a>|
 | EDR Implementation, threat detection, Real-Time Communication              | <a href="https://github.com/baechuu1/SOAR-EDR-Project">SOAR-EDR-project </a>  | 
 | Nessus vulnerability assessment project                                    | <a href="https://github.com/baechuu1/nessus-juice-shop-lab">nessus-juice-shop </a>|
-| Blue Team Lab exercise                                                     | <a href="https://github.com/baechuu1/Blue-team-Lab">nessus-juice-shop </a>|
+| Blue Team Lab exercise                                                     | <a href="https://github.com/baechuu1/Blue-team-Lab">Blue-team-Lab </a>|
 ## Tools
 
 
