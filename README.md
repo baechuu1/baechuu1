@@ -9,9 +9,9 @@ Getting back to work..
 
 ## Skills
 
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Cloud Threat Detection & Analysis                                          | <a href="https://github.com/baechuu1/AWS-Cloud-Threat-Detection-Analysis"> Cloud-Threat-Detection-Analysis</a>|
 | Blue Team Lab exercise                                                     | <a href="https://github.com/baechuu1/Blue-team-Lab">Blue-team-Lab </a>|
 | Intrusion Detection, Network analysis, IDS Rules configuration             | <a href="https://github.com/baechuu1/Snort-Network-Monitoring-project">Network-Monitoring-project </a>|                     
 | Active Directory implementation, Splunk enterprise, Log Analysis           | <a href="https://github.com/baechuu1/Active-Directory-project">Active-Directory-project </a>|
@@ -76,11 +76,3 @@ Getting back to work..
 <img src="https://img.shields.io/badge/-SSCP-00FF00?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%20Essentials-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
-
-## Projects
-- SOC Automation project
-- Network monitorying project
-- Active Directory project
-- SOAR-EDR project
-- Nessus vulnerability assessment project
-- Blue team Labs
