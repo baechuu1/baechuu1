@@ -2,6 +2,7 @@
                                 
 
 <a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Cybersecurity Analyst focused on Incident Response and Threat Detection, with hands-on experience in SIEM, EDR, and cloud security. Passionate about detecting and analyzing real-world attack scenarios through lab-driven environments.
 
 <img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a> [![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)
 
@@ -17,6 +18,7 @@ These labs simulate real-world attack scenarios and include log analysis, malwar
 
 
 ## Projects
+Each project includes real-world attack simulation, log analysis, detection engineering, and MITRE ATT&CK mapping.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
