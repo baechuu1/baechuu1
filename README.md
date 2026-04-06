@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 
-I have completed 30+ hands-on labs focused on incident response, threat hunting, and digital forensics.
+Completed 30+ hands-on labs focused on incident response, security operations, threat intelligence, and digital forensics.
 
 These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection.
 
@@ -14,7 +14,7 @@ These labs simulate real-world attack scenarios and include log analysis, malwar
 
 
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
