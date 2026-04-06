@@ -3,12 +3,12 @@
 
 <a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a> [![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)
 
 Completed 30+ hands-on labs focused on incident response, security operations, threat intelligence, and digital forensics.
 
 These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection. 
-[![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)
+
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0b325929-9a9b-4e82-be07-dc8900b16918" />
 
