@@ -31,6 +31,7 @@ Working...
 ### EDR
 <div>
 <img src="https://img.shields.io/badge/-LimaCharlie-1D72AA?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### SOAR
@@ -45,10 +46,9 @@ Working...
 
 </div>
 
-### Management
+### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Slack-D53032?&style=for-the-badge&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 
@@ -56,10 +56,12 @@ Working...
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-007BFF?&style=for-the-badge&logo=wazuh&logoColor=white" />
 
 </div>
-
+### Vulnerability Scanner
+<div>
+<img src="https://img.shields.io/badge/-Nessus-00AEEF?&style=for-the-badge&logo=tenable&logoColor=white" />
+<div>
 ### Framework
 <div>
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-87CEEB?&style=for-the-badge&logo=mitre&logoColor=white" />
