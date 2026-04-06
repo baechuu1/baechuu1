@@ -7,9 +7,10 @@
 
 Completed 30+ hands-on labs focused on incident response, security operations, threat intelligence, and digital forensics.
 
-These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection.
+These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection. 
+[![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/0b325929-9a9b-4e82-be07-dc8900b16918" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0b325929-9a9b-4e82-be07-dc8900b16918" />
 
 
 
