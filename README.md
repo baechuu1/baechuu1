@@ -3,10 +3,16 @@
 
 <a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://blueteamlabs.online/home/user/68671d1f703d023ddbef2a"><img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+
+I have completed 30+ hands-on labs focused on incident response, threat hunting, and digital forensics.
+
+These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection.
+
+![BTLO Profile](./images/btlo-profile.png)
 
 
-Working... 
+
 
 ## Skills
 
