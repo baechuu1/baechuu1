@@ -6,8 +6,7 @@
 <a href="https://blueteamlabs.online/home/user/68671d1f703d023ddbef2a"><img src="https://img.shields.io/badge/-Blue%20Team%20Labs%20Online-0A66C2?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 
 
-Getting back to work..
- 
+Working... 
 
 ## Skills
 
