@@ -9,7 +9,8 @@ Completed 30+ hands-on labs focused on incident response, security operations, t
 
 These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection.
 
-![BTLO Profile](./images/btlo-profile.png)
+![BTLO Profile]<img width="1762" height="767" alt="image" src="https://github.com/user-attachments/assets/0b325929-9a9b-4e82-be07-dc8900b16918" />
+
 
 
 
