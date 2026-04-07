@@ -14,7 +14,7 @@ These labs simulate real-world attack scenarios and include log analysis, malwar
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0b325929-9a9b-4e82-be07-dc8900b16918" />
 
 
-
+![BTLO Labs](https://img.shields.io/badge/BTLO-30%2B%20Labs%20Completed-brightgreen?style=for-the-badge)
 
 
 ## Projects
