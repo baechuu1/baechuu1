@@ -18,7 +18,7 @@ These labs simulate real-world attack scenarios and include log analysis, malwar
 
 
 ## Projects
-Each project includes real-world attack simulation, log analysis, detection engineering, and MITRE ATT&CK mapping.
+Projects include real-world attack simulation, log analysis, detection engineering, and MITRE ATT&CK mapping.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
