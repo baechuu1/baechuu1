@@ -7,13 +7,6 @@ Cybersecurity Analyst focused on Incident Response and Threat Detection, with ha
 
 <[![Blue Team Labs Online](https://img.shields.io/badge/Blue%20Team%20Labs%20Online-0A66C2?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://blueteamlabs.online/public/user/68671d1f703d023ddbef2a)</a> [![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)
 
-Completed 30+ hands-on labs focused on incident response, security operations, threat intelligence, and digital forensics.
-These labs simulate real-world attack scenarios and include log analysis, malware investigation, and SIEM-based detection. 
-
-
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0b325929-9a9b-4e82-be07-dc8900b16918" />
-
-
 
 
 
