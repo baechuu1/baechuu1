@@ -1,14 +1,10 @@
 # Hello, I'm KT  
                                 
 
-<a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kt-kim1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>   [![Blue Team Labs Online](https://img.shields.io/badge/Blue%20Team%20Labs%20Online-0A66C2?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://blueteamlabs.online/public/user/68671d1f703d023ddbef2a)</a>  [![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)  
 
 Cybersecurity Analyst focused on Incident Response and Threat Detection, with hands-on experience in SIEM, EDR, and cloud security. Passionate about detecting and analyzing real-world attack scenarios through lab-driven environments.
 
-[![Blue Team Labs Online](https://img.shields.io/badge/Blue%20Team%20Labs%20Online-0A66C2?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://blueteamlabs.online/public/user/68671d1f703d023ddbef2a)</a>
-
-
-[![Medium](https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baechu250)
 
 
 
